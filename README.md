@@ -1,2 +1,2 @@
-# agrn_multivariate_polynomial
+# agrn_polynomial
 Artificial Gene Regulatory Network, Multivariate Polynomial Regression
