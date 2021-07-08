@@ -1,6 +1,8 @@
 # agrn_polynomial
 
-## Experiment: Artificial Gene Regulatory Network, Multivariate Polynomial Regression
+Experiment: Artificial Gene Regulatory Network, Multivariate Polynomial Regression
+
+## Abstract
 
 We propose an Artificial Gene Regulatory Network (Artificial Protein Network) with nodes that
 performs second-degree polynomials and layers with few connections each other;
